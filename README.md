@@ -1,2 +1,3 @@
 # tailwind-mini-1
-HOSTED LINK :- 
+HOSTED LINK :- https://mohdshazil.github.io/tailwind-mini-1/
+
